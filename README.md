@@ -11,11 +11,6 @@ competition we compete at [here](https://www.auvsi-suas.org/) or read our
 [paper](https://drive.google.com/file/d/1cgyRTfE9XvklT2BLfCecGUKEN_FgAULO/view)
 to learn more about our system.
 
-You can learn more about us or contact us on the following platforms:
-
----
-
-<div style='text-align:center'>
 <a title="Facebook" href="https://facebook.com/tritonuas">
   <img width="30" alt="Facebook Logo" src="./assets/facebook.png">
 </a>&nbsp
@@ -28,4 +23,3 @@ You can learn more about us or contact us on the following platforms:
 <a title="Medium" href="https://medium.com/tuas">
   <img width="30" alt="Medium Logo" src="./assets/medium.png">
 </a>
-</div>
